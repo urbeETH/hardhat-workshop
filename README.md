@@ -41,7 +41,7 @@ Follow this guide to recreate the repo step-by-step.
        a local or remote (and live) network
 3. Before playing with the contract, for the sake of this tutorial I would like to use this _Token.sol_ contract, which
    is **a simple Solidity contract that implements a token**. You can get
-   the [Solidity source code here](https://hardhat.com/tutorial).
+   the [Solidity source code here](https://hardhat.org/tutorial).
    Some important notes about it:
     1. In the _constructor_, the deployer of the contract will receive the total supply available (1000000 in our
        example, but feel free to edit it)
